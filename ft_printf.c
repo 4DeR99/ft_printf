@@ -6,7 +6,7 @@
 /*   By: moulmado <moulmado@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/06 20:09:13 by moulmado          #+#    #+#             */
-/*   Updated: 2021/12/07 15:01:13 by moulmado         ###   ########.fr       */
+/*   Updated: 2021/12/26 15:46:40 by moulmado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,3 +68,4 @@ int	ft_printf(const char *msg, ...)
 	va_end(lst);
 	return (re);
 }
+
